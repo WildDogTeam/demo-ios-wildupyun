@@ -9,7 +9,7 @@
 本示例可以方便的从IOS客户端上传图片至又拍云云存储， 并对上传成功后的图片的url等基  
 础信息存入野狗实时数据库。  
 
-![一个demo页面的快照](screenshot.png = 414x736)
+![一个demo页面的快照](http://code.wilddog.cn/wddemo/demo-ios-wildupyun/blob/master/screenshot.png = 414x736)
 
 ### 加入又拍云
 * 1 [注册](https://console.upyun.com)一个又拍云账号
