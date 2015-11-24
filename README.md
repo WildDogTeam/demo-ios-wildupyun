@@ -1,4 +1,4 @@
-## demo-IOS-WilddogImg
+## demo-ios-wilddogImg
 基于野狗和又拍API开发的简单图片上传demo
 
 
@@ -63,8 +63,3 @@ http://wilddog.mit-license.org/
 ## 感谢 Thanks
 
 We would like to thank the following projects for helping us achieve our goals:
-
-
-
-
- 
