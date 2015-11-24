@@ -1,6 +1,8 @@
-## demo-IOS-WilddogImg  
+# demo-ios-wilddogimg
 
 基于野狗和又拍API开发的简单图片上传demo
+  
+  
   
   
 ###概述
@@ -68,8 +70,3 @@
 ## 感谢 Thanks
 
 We would like to thank the following projects for helping us achieve our goals:
-
-
-
-
- 
