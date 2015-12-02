@@ -1,4 +1,4 @@
-# demo-ios-wilddogimg
+# demo-ios-wildupyun
 
 基于野狗和又拍API开发的简单图片上传demo
 
