@@ -56,12 +56,11 @@
 
 ## 相关文档s
 
-* [Wilddog 概览](https://z.wilddog.com/overview/guide)
+* [Wilddog 概览](https://z.wilddog.com/overview/introduction)
 * [IOS SDK快速入门](https://z.wilddog.com/ios/quickstart)
-* [IOS SDK 开发向导](https://z.wilddog.com/ios/guide/1)
 * [IOS SDK API](https://z.wilddog.com/ios/api)
 * [下载页面](https://www.wilddog.com/download/)
-* [Wilddog FAQ](https://z.wilddog.com/faq/qa)
+* [Wilddog FAQ](https://z.wilddog.com/questions)
 * [又拍官方文档-开发指南](http://docs.upyun.com/guide/)
 * [又拍官方文档-图片处理](http://docs.upyun.com/guide/#_9)
 
